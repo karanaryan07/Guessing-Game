@@ -6,8 +6,8 @@ A program that picks a random integer from the given range, and the player has t
 ## 1. If a player's guess is less than or greater than the range, it will say "OUT OF BOUNDS"
 
 ## 2. On a player's first turn, if their guess is
-   ###within 10 of the number, output will be "WARM!"
-   ###further than 10 away from the number, output will be "COLD!"
+   within 10 of the number, output will be "WARM!"
+   further than 10 away from the number, output will be "COLD!"##
    
 ## 3. On all subsequent turns, if a guess is
    ###closer to the number than the previous guess output will be "WARMER!"
